@@ -14,14 +14,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 
-/*
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/AlqanbarRami/PlayersNameAndTurn.git
-git push -u origin master
- */
+
 
 import java.util.Random;
 import java.util.Timer;
